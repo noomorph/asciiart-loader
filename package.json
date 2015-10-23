@@ -24,7 +24,8 @@
   ],
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "jscii.js"
   ],
   "maintainers": [
     {
