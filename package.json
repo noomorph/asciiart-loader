@@ -1,0 +1,43 @@
+{
+  "name": "asciiart-loader",
+  "description": "Image-to-ASCII art loader for webpack",
+  "version": "0.0.1",
+  "author": {
+    "name": "Yaroslav Serhieiev",
+    "email": "noomorph@gmail.com"
+  },
+  "homepage": "https://github.com/noomorph/asciiart-loader#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noomorph/asciiart-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noomorph/asciiart-loader/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "loader",
+    "art",
+    "ascii art",
+    "pseudographics"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "maintainers": [
+    {
+      "name": "Yaroslav Serhieiev",
+      "email": "noomorph@gmail.com"
+    }
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "dependencies": {
+    "canvas": "^1.2.11",
+    "loader-utils": "^0.2.11"
+  }
+}
